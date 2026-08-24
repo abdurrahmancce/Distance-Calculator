@@ -228,8 +228,21 @@ Many cities work even without internet.
 
 ## Abdur Rahman Akash
 
-* GitHub: https://github.com/abdurrahmancce
-* LinkedIn: https://www.linkedin.com/in/abdur-rahman-akash-60450b2aa
+<a href="https://github.com/abdurrahmancce">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/abdur-rahman-akash26/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:akash.abdur.2002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://abdurrahmancce.github.io/Personal-Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
 
 ---
 
